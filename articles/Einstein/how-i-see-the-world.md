@@ -208,7 +208,7 @@
 ### 继续研究、权利资料与核对本
 
 - [Einstein Papers Project](https://www.einstein.caltech.edu/)是继续追查书信、手稿和注释文献的权威入口。
-- 权利边界参考[美国版权局](https://copyright.gov/what-is-copyright/)、[新加坡知识产权局《Copyright Act 2021》说明](https://www.ipos.gov.sg/docs/default-source/resources-library/copyright/copyright-act-factsheet.pdf)与 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。具体说明见仓库的 [RIGHTS.md](../RIGHTS.md)。
+- 权利边界参考[美国版权局](https://copyright.gov/what-is-copyright/)、[新加坡知识产权局《Copyright Act 2021》说明](https://www.ipos.gov.sg/docs/default-source/resources-library/copyright/copyright-act-factsheet.pdf)与 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。具体说明见仓库的 [RIGHTS.md](../../RIGHTS.md)。
 - 制作过程中还核对了一份用户合法持有的 341 页 Ullstein 版 PDF。该文件缺少可识别的版权页，元数据只显示于 2005 年生成，不能仅凭它确定具体印次；本文没有上传、复制或公开链接该文件。核对本 SHA-256：`3191F3D435DBB3019D78003DACB2EF19ED0A39DE43F739590C42D2EB2711B5B6`。
 
 ## 结语

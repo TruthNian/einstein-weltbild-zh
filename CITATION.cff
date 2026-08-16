@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "如引用本项目，请注明版本和仓库链接。"
+title: "《我如何看世界》：爱因斯坦原文中译与晚年思想校勘"
+type: book
+authors:
+  - family-names: "TruthNian"
+version: 1.0.0
+date-released: 2026-08-16
+license: CC-BY-4.0
+repository-code: "https://github.com/TruthNian/einstein-weltbild-zh"
+url: "https://github.com/TruthNian/einstein-weltbild-zh"
+abstract: "依据1934年德文初版页影完成的中文翻译，并对照1930年英文首刊及1932—1955年的相关原始材料进行版本与思想校勘。"
